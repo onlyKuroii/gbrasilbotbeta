@@ -29,7 +29,7 @@ const elementos = {
 	},
 	hydro: {
 		nome: "Hydro",
-		cor: "#427ab3",
+		cor: "#427ab3a",
 		emote: "<:hydro:1015410719329615923>",
 		icone: "https://static.wikia.nocookie.net/genshin-impact/images/5/5b/Elemento_Hydro.png/revision/latest/top-crop/width/360/height/360?cb=20201215171805&path-prefix=pt-br",
 	},
